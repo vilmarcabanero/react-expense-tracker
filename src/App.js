@@ -1,9 +1,8 @@
 import Expenses from './components/Expenses'
 
 function App() {
-	return (
-		<Expenses />
-	)
+
+	return <Expenses />
 }
 
 export default App
