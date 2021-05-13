@@ -22,3 +22,5 @@ Added explanation ng props, self understanding. Video
 57. Adding Two-Way Binding
 58. Child-to-Parent Component Communication (Bottom-up)
 59. Lifting The State Up
+60. Controlled vs Uncontrolled Components & Stateless vs
+Stateful Components
